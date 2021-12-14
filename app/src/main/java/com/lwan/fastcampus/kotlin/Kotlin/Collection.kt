@@ -42,8 +42,6 @@ fun main(array: Array<String>) {
     mNumberMap.put("put2", 20)
     println(mNumberMap)
 
-    mNumberMap.replace("put1", 30)
-
     println(mNumberMap.keys)
     println(mNumberMap.values)
 
